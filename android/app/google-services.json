@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175756330355",
+    "project_id": "sports-pasal",
+    "storage_bucket": "sports-pasal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175756330355:android:5a45f11272542c27663106",
+        "android_client_info": {
+          "package_name": "com.example.sportsshopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175756330355-3ph8d3qo3t4200i828t51sqhnvkitosp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXIF5HaMT6YyS_fFuBBiO6GvRH_k0dC7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175756330355-3ph8d3qo3t4200i828t51sqhnvkitosp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
